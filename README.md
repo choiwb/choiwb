@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @choiwb
 - 👀 I’m interested in AI, ML, DL model deployment by Docker & Kubernetes
-- 🌱 I’m currently learning anomaly detection by security data
+- 🌱 I’m currently learning Cloud (MSP) based AI Engineering
 - 📫 How to reach me khuam1216@gmail.com </br></br>
 
 🔱 Stack 🔱 </br></br>
